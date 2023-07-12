@@ -19,7 +19,7 @@ export default async function Index() {
         <div className="container">
           <div id="welcome">
             <h1>
-              <span> 한번 실험해보자, </span>
+              <span> 한번 실험해보자, 생각보다 잘되는건가? </span>
               제대로 되나요? 👋
             </h1>
           </div>
