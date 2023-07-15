@@ -20,7 +20,7 @@ export default async function Index() {
           <div id="welcome">
             <h1>
               <span> 한번 실험해보자, 생각보다 잘되는건가? </span>
-              제대로 되나요? 👋
+              제대로 되나요? 다시한번 실험하기👋
             </h1>
           </div>
 
