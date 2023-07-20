@@ -1,6 +1,7 @@
 'use client';
 
 import styled from 'styled-components';
+import { Ui } from '@org/ui';
 
 const StyledPage = styled.div`
   .page {
@@ -23,6 +24,7 @@ export default async function Index() {
               제대로 되나요? 다시한번 실험하기👋
             </h1>
           </div>
+          <Ui />
 
           <div id="hero" className="rounded">
             <div className="text-container">
