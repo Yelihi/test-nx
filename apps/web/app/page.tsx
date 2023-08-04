@@ -20,7 +20,7 @@ export default async function Index() {
         <div className="container">
           <div id="welcome">
             <h1>
-              <span> 한번 실험해보자, 뭐가뭔지... </span>
+              <span> 깃허브 너무 어렵다 </span>
               제대로 되나요? 다시한번 실험하기👋
             </h1>
           </div>
